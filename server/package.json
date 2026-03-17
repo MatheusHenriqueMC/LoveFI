@@ -1,0 +1,20 @@
+{
+  "name": "lo-fi-vibe-weaver-backend",
+  "version": "1.0.0",
+  "description": "Backend para integração OpenAI e YouTube API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "googleapis": "^140.0.1",
+    "openai": "^4.52.0"
+  }
+}
